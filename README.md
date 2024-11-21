@@ -1,5 +1,5 @@
 # onscripter_sdl2_fork
-Onscripter SDL2 fork, originally from https://github.com/uyjulian/onscripter/tree/sdl2  
+Onscripter SDL2 fork, sjis version, originally from https://github.com/uyjulian/onscripter/tree/sdl2  
 
 ## Main project  
 Please use VC6 to open win32_prj/vc6/onscripter.dsw,    
